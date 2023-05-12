@@ -1,4 +1,4 @@
-alert("Hi Boo")
-alert("You are so cute and I Love My Honey Dou ^-^")
+alert()
+alert()
 
-alert("Happy Anniversary My Wifey <3") 
+alert() 
